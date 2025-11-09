@@ -1,2 +1,2 @@
 # Project_Data_Analytics
-This dataset is made for data analysis projects that predict and analyze car prices. It contains real-world data from different car listings and includes details like brand, model, year, mileage, fuel type, transmission, and overall condition — all of which affect the market price.
+This project focuses on analyzing and visualizing real-world car data to understand how various factors such as brand, year, mileage, and fuel type affect selling prices. Using Python (Pandas, Matplotlib, and OpenPyXL), the data is processed, visualized, and displayed through bar charts, pie charts, and line graphs to find useful patterns and insights.
